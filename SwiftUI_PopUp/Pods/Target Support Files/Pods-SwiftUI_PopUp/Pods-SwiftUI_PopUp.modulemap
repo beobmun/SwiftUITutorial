@@ -1,0 +1,6 @@
+framework module Pods_SwiftUI_PopUp {
+  umbrella header "Pods-SwiftUI_PopUp-umbrella.h"
+
+  export *
+  module * { export * }
+}
